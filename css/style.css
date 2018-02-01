@@ -1,0 +1,17 @@
+body {
+	background-color: #000000;
+	color: #EF131D;
+}
+
+img {
+    width: auto;  /* set to anything and aspect ratio is maintained - also corrects glitch in Internet Explorer */
+    height: 400px;  /* set to anything and aspect ratio is maintained */
+    max-width: 100%;
+    border: 0;  /* for older IE browsers that draw borders around images */
+}
+
+h1, h2, h3, h4, h5, p, div{
+
+	text-align:center;
+
+}
